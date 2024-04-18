@@ -1,0 +1,26 @@
+body {
+    background-color: #282828;
+    font-family: Arial, sans-serif;
+    color: white;
+    background: linear-gradient(150deg,  #4403f7, #6703aa, #4b027c);
+    margin: 0 auto;
+    padding: 0;
+}
+header, footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+main {
+    padding: 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+header h1 {
+    font-size: 40px;
+    
+}
